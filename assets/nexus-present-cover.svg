@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">Nexus Present product cover</title><desc id="desc">Gold and charcoal Nexus Present branding with a stylized presentation designer interface.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090b11"/><stop offset=".48" stop-color="#11161f"/><stop offset="1" stop-color="#1d1710"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0af"/><stop offset=".52" stop-color="#ffd25c"/><stop offset="1" stop-color="#f5a900"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#212735"/><stop offset="1" stop-color="#11151d"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#e2a928" stop-opacity=".22"/><stop offset="1" stop-color="#e2a928" stop-opacity="0"/></radialGradient>
+<filter id="shadow"><feGaussianBlur stdDeviation="24"/></filter><pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#d1a43e" opacity=".14"/></pattern></defs>
+<rect width="1200" height="560" fill="url(#bg)"/><rect width="1200" height="560" fill="url(#dots)"/><circle cx="925" cy="260" r="310" fill="url(#glow)"/>
+<path d="M0 480 H1200" stroke="#e4b13c" stroke-opacity=".15"/><path d="M0 50 H1200" stroke="#ffffff" stroke-opacity=".05"/>
+<g transform="translate(76 60)"><path d="M36 0 72 22 72 60 36 82 0 60 0 22Z" fill="none" stroke="#ffc645" stroke-width="6"/><path d="M14 46 36 32 58 46" fill="none" stroke="#ffc645" stroke-width="7" stroke-linecap="round"/><circle cx="36" cy="60" r="7" fill="#ffc645"/></g>
+<text x="166" y="99" fill="#ccc7b6" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="6">NEXUS DYNAMICS</text>
+<text x="77" y="204" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="700" letter-spacing="3">NEXUS</text>
+<text x="77" y="276" fill="url(#gold)" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="700" letter-spacing="3">PRESENT</text>
+<path d="M80 306H540" stroke="#ffd469" opacity=".48" stroke-width="2"/>
+<text x="80" y="349" fill="#f1ead6" font-family="Arial,Helvetica,sans-serif" font-size="25">AI-powered presentation design</text>
+<text x="80" y="389" fill="#9ea6b6" font-family="Arial,Helvetica,sans-serif" font-size="19">From an idea to a carefully crafted deck.</text>
+<text x="80" y="445" fill="#e7bd52" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2">DESIGN  ·  REFINE  ·  SHARE</text>
+<g transform="translate(700 47)"><rect x="0" y="0" width="430" height="475" rx="37" fill="#020408" stroke="#514530" stroke-width="2"/><rect x="17" y="15" width="396" height="445" rx="24" fill="url(#panel)" stroke="#444856"/>
+<text x="46" y="67" fill="#f5f5f5" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Nexus Present</text><circle cx="365" cy="61" r="8" stroke="#afafbf" fill="none"/>
+<text x="46" y="127" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">What are we</text><text x="46" y="157" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">designing today?</text><text x="46" y="191" fill="#9da6b9" font-family="Arial,Helvetica,sans-serif" font-size="13">Turn your prompt into a presentation plan.</text>
+<rect x="46" y="216" width="90" height="32" rx="12" fill="#2e2a1b" stroke="#f5c04e"/><text x="91" y="237" fill="#ffd166" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle">Default</text>
+<rect x="146" y="216" width="125" height="32" rx="12" fill="#202430" stroke="#454858"/><text x="208" y="237" fill="#ccd2dc" font-family="Arial,Helvetica,sans-serif" font-size="13" text-anchor="middle">Aureum Luxe</text>
+<rect x="46" y="264" width="337" height="82" rx="12" fill="#131720" stroke="#4d5262"/><text x="61" y="288" fill="#e5e5e6" font-family="Arial,Helvetica,sans-serif" font-size="14">Create a presentation on</text><text x="61" y="309" fill="#e5e5e6" font-family="Arial,Helvetica,sans-serif" font-size="14">traffic rules</text><rect x="293" y="307" width="76" height="27" rx="8" fill="#ffc43b"/><text x="331" y="325" text-anchor="middle" fill="#131313" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700">Execute</text>
+<text x="46" y="377" fill="#f6c349" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1">PRESENTATION OPTIONS</text>
+<rect x="46" y="389" width="76" height="30" rx="8" fill="#252837" stroke="#50525d"/><text x="84" y="408" text-anchor="middle" fill="#c1c6d3" font-family="Arial,Helvetica,sans-serif" font-size="13">3 Slides</text><rect x="130" y="389" width="76" height="30" rx="8" fill="#ffc33c"/><text x="168" y="408" text-anchor="middle" fill="#16171b" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700">5 Slides</text><rect x="214" y="389" width="76" height="30" rx="8" fill="#252837" stroke="#50525d"/><text x="252" y="408" text-anchor="middle" fill="#c1c6d3" font-family="Arial,Helvetica,sans-serif" font-size="13">7 Slides</text></g>
+<text x="78" y="525" fill="#818a9b" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">PUBLIC PRODUCT SHOWCASE  /  PRIVATE SOURCE CODE</text>
+</svg>
