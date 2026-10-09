@@ -16,6 +16,10 @@
 
 </div>
 
+<div align="center">
+<img src="assets/nexus-present-cover.svg" width="100%" alt="Branded Nexus Present product cover" />
+</div>
+
 ---
 
 ## Overview
@@ -65,9 +69,15 @@ Nexus Present is shaped around a few product principles:
 - **Simplicity** — advanced tools should not make basic tasks difficult.
 - **Consistency** — screens, typography, and motion should feel like one product.
 
-## Product previews
+## Visual identity
 
-The actual app screenshots will be published here when approved for sharing. No mockups are presented as screenshots of a running app.
+The public cover above follows the **charcoal, black, and gold** visual identity from the supplied Nexus Present promotional artwork. The design references a phone-based presentation creation screen, prompt input, style selections, slide-count controls, and a prominent action button.
+
+**Artwork note:** The cover is a branded illustration created for this GitHub showcase. It is not a screenshot or proof that the full mobile experience has been tested.
+
+## Promotional artwork
+
+The original promotional poster supplied by the product creator is available for publication separately. It is deliberately not represented as an in-app screenshot here. Approved screenshots and project visuals may be added without publishing private source code.
 
 ## Repository access
 
